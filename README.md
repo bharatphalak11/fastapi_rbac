@@ -58,3 +58,4 @@ uvicorn app.main:app --reload
 
 
 ## Project Quick Demonstration Video:
+https://drive.google.com/file/d/1FyJfmd5ieG8XEV1sSv6VT-skjAS7zNvI/view?usp=sharing
